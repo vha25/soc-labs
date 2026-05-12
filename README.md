@@ -1,7 +1,7 @@
-# Mini SOC Project
+## Projects
 
-This is my SOC monitoring project using Splunk.
+### Mini SOC with Splunk
+Basic SOC monitoring environment using Splunk SIEM.
 
-## Network Diagram
-
-![SOC Diagram](network-diagram.png)
+### Malware Behavior Analysis
+Analyzing suspicious malware activities using Sysmon and Splunk logs.
